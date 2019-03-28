@@ -21,11 +21,14 @@ Variables a optimizar:
 
 Tomando en cuenta disponibilidad de 2018, ¿qué harías?
 
+## Diccionario de datos
+![](https://i.imgur.com/g9FFF4d.png)
+
 ## Entregables
 * Código fuente que pueda tomar como input un _.csv_ con las mismas columnas que tiene el de este repo y ejecute el modelo que entrenaron
 * Presentación con explicación de variables que impactan, recuerda que incluso modelos de caja negra (e.g. Random Forest, Neural Networks) pueden ser interpretables con sistemas como [LIME](https://github.com/marcotcr/lime).
 
-Como gúia para la presentación, sugerimos que incluyas las siguientes secciones:
+Como guía para la presentación, sugerimos que incluyas las siguientes secciones:
 * Metodología
 * Insights
 * Estrategia
