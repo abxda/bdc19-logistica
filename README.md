@@ -2,7 +2,7 @@
 El BDC es el Hackathon de Ciencia de Datos organizado por [Grupo Modelo](https://en.wikipedia.org/wiki/Grupo_Modelo). El objetivo es seleccionar a los mejores Científicos de Datos para ingresar a las filas del equipo de la cervecera más grande del mundo.
 
 # INVITACIÓN AL SLACK
-Da click [aquí]()
+Da click [aquí](https://join.slack.com/t/brewingdatacup2/shared_invite/enQtNTgzMjk0MDQ1MDQxLTcyZTBiNDFjNWI1YmRiZDZmYmM3MTMyY2VmYzU0ZDZlYzQ4NjhkZDgzOWUxZDdmM2VkNzg2ZmMxZjYwZDRkMzI)
 
 ## ¿De qué trata este reto?
 ### Contexto
